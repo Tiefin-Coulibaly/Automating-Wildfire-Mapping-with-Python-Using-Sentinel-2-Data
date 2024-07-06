@@ -1,0 +1,1 @@
+# Automating-Wildfire-Mapping-with-Python-Using-Sentinel-2-Data
